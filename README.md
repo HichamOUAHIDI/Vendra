@@ -1,6 +1,6 @@
 # Vendra 🚀
 
-**Votre copilote IA pour vendre plus vite.**
+**Vendra IA pour vendre plus vite.**
 
 Vendra est une plateforme **IA multi-agents** qui transforme une simple photo + description en une annonce optimisée (titre, prix marché, description persuasive) pour Leboncoin, Vinted et Facebook Marketplace.
 
