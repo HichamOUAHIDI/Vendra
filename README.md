@@ -4,8 +4,6 @@
 
 Vendra est une plateforme **IA multi-agents** qui transforme une simple photo + description en une annonce optimisée (titre, prix marché, description persuasive) pour Leboncoin, Vinted et Facebook Marketplace.
 
-> ⚙️ Ce repo vient d'être initialisé. Le scaffold complet du MVP (Next.js + FastAPI + LangGraph + Gemini) est en cours de génération via une Pull Request automatique.
-
 ## 🧠 Les 4 agents du MVP
 
 1. 👁️ **Vision Agent** — analyse l'image et détecte catégorie / marque / état
